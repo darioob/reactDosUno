@@ -1,0 +1,16 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.imagen {
+    height: 220px;
+    width: 100%;
+}
+
+.input {
+    width: 600px;
+}
+
+.inputDos {
+    height: 300px;
+    width: 600px;
+}
+
